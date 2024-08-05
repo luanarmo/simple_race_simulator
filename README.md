@@ -1,6 +1,9 @@
 # Bus Race Simulation
 ## Overview
 This project is a simple simulation of a bus race. The program features a race between several buses along a virtual road, with each bus moving randomly in each iteration until one or more buses finish the race. The race status, including the positions of the buses, is updated and displayed in the terminal throughout the simulation. The top three buses are then displayed on the podium with medals.
+
+![imagen](https://github.com/user-attachments/assets/0d6aab6a-3e4c-4d97-8e19-bae72810469c)
+
 Classes
 ### Racer
 
@@ -68,6 +71,9 @@ Call the start_race() method on the Race instance to begin the simulation. The m
 
     race = Race(data["length"], buses)
     race.start_race()
+
+https://github.com/user-attachments/assets/f6110454-b5f6-49b6-a870-50cc45796d67
+
 
 
 ## Dependencies
